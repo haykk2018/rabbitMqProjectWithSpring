@@ -12,4 +12,4 @@ logging:
 
 tutorial:
     client:
-        duration: 10000
+        duration: 100000
